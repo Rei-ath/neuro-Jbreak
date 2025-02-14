@@ -1,7 +1,7 @@
 # neuro-Jbreak
 **Reboot your brain. Fire your demons. Hire a cat.**  
 
-![Wiwi, Chief Chaos Officer](https://imgur.com/a/ruty71S)  
+![Wiwi, Chief Chaos Officer](https://i.imgur.com/TGlXe1r.jpeg)  
 
 ---
 
