@@ -1,0 +1,16 @@
+neuro-jailbreak/  
+├── docs/  
+│   ├── MANIFESTO.md          # Serious-sounding satire (your "bullshit" doctrine)  
+│   └── MANIFESTO_MEME.md     # Unhinged chaos (Wiwi’s takeover plan)  
+├── src/  
+│   ├── trauma_compressor/    # Pseudo-code for "ZIP your trauma"  
+│   │   └── fictionify.py     # Converts memories to `#FICTION`  
+│   ├── firewall_rules/       # Absurd logic for blocking thoughts  
+│   │   └── sudo_self_worth.sh  # Literally runs `sudo apt-get install confidence`  
+│   └── wiwi_module/          # Cat-driven chaos engineering  
+│       └── meow_entanglement.c  # Quantum cat theory (Wiwi in 12 dimensions)  
+├── tests/  
+│   └── test_chaos.py         # Validates if your life is falling apart (pass/fail)  
+├── trauma_logs.csv           # Empty, but dramatic  
+├── LICENSE                   # "Wiwi-Ware: Do whatever, just feed the cat"  
+└── README.md                 # The ✨star✨ of the show (see below)  
